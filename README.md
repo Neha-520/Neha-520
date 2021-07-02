@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neha-520)](https://git.io/streak-stats)
 [! GitHub stats](https://github-readme-stats.vercel.app/api?user=Neha-520)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=Neha-520&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-520&theme=tokyonight)
