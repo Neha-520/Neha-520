@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neha-520&theme=tokyonight)](https://git.io/streak-stats)
-![GitHub stats (https://github-readme-stats.vercel.app/api?username=Neha-520&show_icons=true&theme=tokyonight)]
+
