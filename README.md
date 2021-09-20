@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neha-520&theme=tokyonight)](https://git.io/streak-stats)
-![Neha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neha-520&theme=react-dark&area=true)
+![Neha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neha-520&theme=material-palenight&area=true)
 
