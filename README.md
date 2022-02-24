@@ -13,6 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neha-520&theme=tokyonight)](https://git.io/streak-stats)
-![Neha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Neha-520&theme=material-palenight&area=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Neha-520&show_icons=true&locale=en&theme=tokyonight" />
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-520&langs_count=8&theme=tokyonight" />
+    </td>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-520&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+<img src="https://activity-graph.herokuapp.com/graph?username=Neha-520&theme=material-palenight&area=true" />
 
